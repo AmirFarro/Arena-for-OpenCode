@@ -1,0 +1,13 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "permission": {
+    "skill": {
+      "arena": "allow"
+    },
+    "task": {
+      "arena-competitor": "allow",
+      "arena-attacker": "allow",
+      "arena-judge": "allow"
+    }
+  }
+}
